@@ -58,9 +58,9 @@ dependencies {
     kapt(libs.dagger.hilt.compiler)
 
     implementation(libs.coil.compose)
+
     implementation(libs.retrofit2.retrofit)
     implementation(libs.converter.gson)
-
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

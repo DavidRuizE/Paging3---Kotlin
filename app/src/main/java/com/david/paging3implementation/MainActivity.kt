@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.david.paging3implementation.presentation.RickListScreen
 import com.david.paging3implementation.ui.theme.Paging3ImplementationTheme
 import dagger.hilt.android.AndroidEntryPoint
 
